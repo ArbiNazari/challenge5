@@ -8,7 +8,7 @@ body {
     background: transparent;
     border: none;
     resize: none;
-    color: #000000;
+    color: #df0606;
     border-left: 1px solid black;
     padding: 10px;
   }
@@ -22,7 +22,6 @@ body {
     padding: 10px 15px;
     font-weight:bold;
     font-size: 1.85vw;
-    text-shadow: 0 0 10px rgba(133, 22, 22, 0.5);
     background: #508ac0;
     color: #bdcfda;
     border-radius: 10px;
