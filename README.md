@@ -2,9 +2,9 @@
 Challenge 5: Work Day Scheduler 
 
 My Task is to create a simple calendar application that will allow a 
-user to save events reach hour of th day (must run in browser and dynamically update).
+user to save events reach hour of the day (must run in browser and dynamically update).
 
-Requirements of Application:
+Application Requirements:
 
 -	The current day must be displayed at the top of the calendar.
 -	User is presented with time blocks for standard business hours during 
