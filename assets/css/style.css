@@ -18,7 +18,28 @@ body {
     background-color: transparent;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid #e6ce46;
+    padding: 10px 15px;
+    font-weight:bold;
+    font-size: 1.85vw;
+    text-shadow: 0 0 10px rgba(133, 22, 22, 0.5);
+    background: #508ac0;
+    color: #bdcfda;
+    border-radius: 10px;
+
+  }
+  .jumbotronfooter {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid rgb(230, 206, 70);
+    padding: 10px 15px;
+    font-size: 1.10vw;
+    text-shadow: 0 0 10px rgba(133, 22, 22, 0.5);
+    background: #508ac0;
+    color: #bdcfda;
+
   }
   
   .description{
@@ -68,4 +89,18 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
+  }
+  @media (max-width: 690px) {
+    .btn {
+      font-size: 1rem;
+      margin: 16px 0px 0px 0px;
+      padding: 10px 15px;
+    }
+    
+  }
+  
+  @media (max-width: 500px) {
+    .btn {
+      font-size: 0.8rem;
+    }
   }
