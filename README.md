@@ -19,4 +19,3 @@ Application Requirements:
 
 By Arbi Nazari
 
-![ch5](https://user-images.githubusercontent.com/95839411/151681597-7d614f05-27e3-4139-9a51-c6ebd3ed8ab8.jpg)
